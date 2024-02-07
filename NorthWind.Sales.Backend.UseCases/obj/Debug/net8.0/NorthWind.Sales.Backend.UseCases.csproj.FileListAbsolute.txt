@@ -1,0 +1,17 @@
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.deps.json
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.AssemblyReference.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.AssemblyInfoInputs.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.AssemblyInfo.cs
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.csproj.CopyComplete
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCases.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCases.dll

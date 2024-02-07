@@ -1,0 +1,15 @@
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.deps.json
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.AssemblyInfo.cs
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.csproj.CopyComplete
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.BusinessObjects.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\NorthWind.Sales.Backend.BusinessObjects.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.BusinessObjects\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.BusinessObjects.dll

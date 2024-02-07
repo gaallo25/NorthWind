@@ -1,0 +1,11 @@
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.deps.json
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\bin\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfoInputs.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.AssemblyInfo.cs
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.csproj.CoreCompileInputs.cache
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\refint\NorthWind.Sales.Entities.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\NorthWind.Sales.Entities.pdb
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Entities\obj\Debug\net8.0\ref\NorthWind.Sales.Entities.dll
