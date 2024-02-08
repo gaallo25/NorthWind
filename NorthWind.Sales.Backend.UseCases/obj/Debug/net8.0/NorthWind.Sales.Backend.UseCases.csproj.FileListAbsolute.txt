@@ -15,3 +15,4 @@ C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\ob
 C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\refint\NorthWind.Sales.Backend.UseCases.dll
 C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.pdb
 C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\ref\NorthWind.Sales.Backend.UseCases.dll
+C:\Users\carlos.gallo\source\repos\NorthWind\NorthWind.Sales.Backend.UseCases\obj\Debug\net8.0\NorthWind.Sales.Backend.UseCases.sourcelink.json

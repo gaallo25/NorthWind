@@ -27,7 +27,7 @@
                 PostalCode = orderDto.PostalCode
             };
 
-            foreach(var item in  orderDto.OrderDetails)
+                       foreach(var item in  orderDto.OrderDetails)
             {
                 OrderAggregate.AddDetail(item.ProductId, item.UnitPrice, item.Quantity);
             }
