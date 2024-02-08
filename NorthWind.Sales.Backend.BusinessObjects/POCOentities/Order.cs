@@ -13,5 +13,6 @@ namespace NorthWind.Sales.Backend.BusinessObjects.POCOentities
         public DiscountType DiscountType { get; set; } = DiscountType.Percentage;
         public double Discount { get; set; } = 10;
         public DateTime OrderDate { get; set; } = DateTime.Now;
+
     }
 }

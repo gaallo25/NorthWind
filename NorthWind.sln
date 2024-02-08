@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWind.Sales.Entities", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWind.Sales.Backend.BusinessObjects", "NorthWind.Sales.Backend.BusinessObjects\NorthWind.Sales.Backend.BusinessObjects.csproj", "{112C45B2-C8C9-4B24-ACC8-8FE5302743FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.Backend.UseCases", "NorthWind.Sales.Backend.UseCases\NorthWind.Sales.Backend.UseCases.csproj", "{ED538117-AE15-4CA9-ACA1-DD3018EA38ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NorthWind.Sales.Backend.UseCases", "NorthWind.Sales.Backend.UseCases\NorthWind.Sales.Backend.UseCases.csproj", "{ED538117-AE15-4CA9-ACA1-DD3018EA38ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateways", "Gateways", "{FD878B2F-ED03-4045-A32F-221C0C3222B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{F6B6C34F-AA5B-4E82-8948-E3303D66F9C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Sales.Backend.Repositories", "NorthWind.Sales.Backend.Repositories\NorthWind.Sales.Backend.Repositories.csproj", "{C043C011-6DAC-43D7-85B9-C32C188A4589}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +41,10 @@ Global
 		{ED538117-AE15-4CA9-ACA1-DD3018EA38ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED538117-AE15-4CA9-ACA1-DD3018EA38ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED538117-AE15-4CA9-ACA1-DD3018EA38ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C043C011-6DAC-43D7-85B9-C32C188A4589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C043C011-6DAC-43D7-85B9-C32C188A4589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C043C011-6DAC-43D7-85B9-C32C188A4589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C043C011-6DAC-43D7-85B9-C32C188A4589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +53,9 @@ Global
 		{A9CE9314-5B68-47F5-A0B7-F18A1CAA33A3} = {951D6F8F-3574-401D-A095-06144AD095B7}
 		{112C45B2-C8C9-4B24-ACC8-8FE5302743FB} = {5346EA72-8F2A-4922-8DBC-22F37EAC406C}
 		{ED538117-AE15-4CA9-ACA1-DD3018EA38ED} = {5346EA72-8F2A-4922-8DBC-22F37EAC406C}
+		{FD878B2F-ED03-4045-A32F-221C0C3222B7} = {32FC6E73-DDAB-474A-B631-B6F530560AF9}
+		{F6B6C34F-AA5B-4E82-8948-E3303D66F9C6} = {FD878B2F-ED03-4045-A32F-221C0C3222B7}
+		{C043C011-6DAC-43D7-85B9-C32C188A4589} = {F6B6C34F-AA5B-4E82-8948-E3303D66F9C6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F32D46F1-6BA0-4424-A9F0-0340A05C53AF}

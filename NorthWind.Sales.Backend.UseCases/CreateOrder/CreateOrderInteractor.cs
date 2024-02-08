@@ -1,6 +1,6 @@
 ﻿namespace NorthWind.Sales.Backend.UseCases.CreateOrder
 {
-    internal class CreateOrderInteractor(ICreateOrderOutputPort outputPort,
+    internal class CreateOrderInteractor(ICreateOrderOutputPort outputPort, 
         ICommandsRepository repository) : ICreateOrderInputPort
     {
         public async Task Handle(CreateOrderDto createOrderDto)
